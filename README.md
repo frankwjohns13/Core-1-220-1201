@@ -293,8 +293,10 @@
 - Run printer troubleshooter
 
 
+<!-- End of Notes -->
 
-
+Core 2 Notes 
+Main Page
 
 
 
