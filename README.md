@@ -3,7 +3,7 @@
 
 <!-- Domain 1 -->
 ## Domain 1.0 - Mobile Devices (13%)
-<div>**1.1 Given a scenario, install and configure laptop hardware and components Laptop Components**</div>
+**1.1 Given a scenario, install and configure laptop hardware and components Laptop Components**
 ###Laptop Components
 
 
