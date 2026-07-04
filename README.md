@@ -9,8 +9,13 @@
  **1.1 Given a scenario, install and configure laptop hardware and components Laptop Components**
 
 </div>
+<div>
 
-<div>###Laptop Components</div>
+  ###Laptop Components
+  
+</div>
+
+
 
 
 
