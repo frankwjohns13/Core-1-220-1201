@@ -7,6 +7,7 @@
 ### 1.1 Given a scenario, install and configure laptop hardware and components Laptop Components
 
 **Laptop Components**
+
 - **Motherboard** — Main circuit board connecting all components
 - **CPU** — Central Processing Unit (often soldered, not easily replaceable)
 - **RAM** — SODIMM modules (laptop-specific form factor)
@@ -16,3 +17,8 @@
 - **Battery** — Lithium-ion, removable or internal
 - **Cooling System** — Fans and heat sinks (dust buildup is common)
 
+**Installation & Replacement**
+
+- Use proper ESD protection
+- Follow manufacturer disassembly guides
+- Common replacements: RAM, SSD, battery, screen, keyboard
