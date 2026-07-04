@@ -22,3 +22,17 @@
 - Use proper ESD protection
 - Follow manufacturer disassembly guides
 - Common replacements: RAM, SSD, battery, screen, keyboard
+
+
+### 1.2 Compare and contrast characteristics of components of mobile devices 
+
+**Mobile Device Types**
+
+-	**Laptops** — Full desktop OS, powerful hardware
+-	**Tablets** — Touch-focused, lighter OS (iPadOS, Android)
+-	**Smartphones** — iOS or Android
+-	**Wearables** — Smartwatches, fitness trackers
+-	**IoT Devices** — Smart home devices
+
+
+
