@@ -58,6 +58,80 @@
 
 
 <!-- Domain 2 -->
+## Domain 2.0 – Networking (23%)
+
+### 2.1 Compare and contrast TCP and UDP ports, protocols, and their purposes
+
+**Common Ports & Protocols**
+-	TCP (reliable, connection-oriented)
+--	80 (HTTP)
+--	443 (HTTPS)
+--	3389 (RDP)
+--	445 (SMB)
+
+- UDP (faster, connectionless)
+-- 53 (DNS)
+-- 67/68 (DHCP)
+--	161 (SNMP)
+--	514 (Syslog)
+
+### 2.2 Compare and contrast common networking hardware
+
+**Network Devices** 
+
+-	**Router** — Connects networks, performs NAT, provides Wi-Fi
+-	**Switch** — Connects devices within a LAN
+-	**Access Point** — Extends wireless coverage
+-	**Firewall** — Protects network traffic
+-	**Modem** — Connects to ISP
+
+**Cabling**
+-	Twisted Pair (Cat5e, Cat6, Cat6a)
+-	Fiber Optic (single-mode, multi-mode)
+-	Coaxial (older cable internet)
+
+### 2.3 Compare and contrast wireless networking protocols
+
+**Wi-Fi Standards**
+
+-	802.11a/b/g/n/ac/ax (Wi-Fi 6)
+-	Frequency bands: 2.4 GHz (range) vs 5 GHz (speed)
+
+**Bluetooth**
+
+-	Short-range wireless for peripherals
+
+**NFC**
+
+-	Very short range for payments and data transfer
+
+###2.4 Summarize the purposes of services provided by networked hosts
+
+**Common Services**
+
+-	**DHCP** — Assigns IP addresses
+-	**DNS** — Resolves domain names
+-	**HTTP/HTTPS** — Web traffic
+-	**SMB** — File sharing
+-	**RDP** — Remote desktop
+
+###2.5 Given a scenario, install and configure basic wired/wireless small office/home office (SOHO) networks
+
+**SOHO Setup**
+
+-	Connect modem → router
+-	Configure Wi-Fi SSID and strong password
+-	Enable WPA3 encryption
+-	Set up guest network if needed
+
+**Troubleshooting Connectivity**
+
+-	Check cables
+-	Restart devices
+-	Verify IP configuration
+
+
+<!-- Domain 3 -->
 
 
 
