@@ -64,16 +64,16 @@
 
 **Common Ports & Protocols**
 -	TCP (reliable, connection-oriented)
---	80 (HTTP)
---	443 (HTTPS)
---	3389 (RDP)
---	445 (SMB)
+ -	80 (HTTP)
+ -	443 (HTTPS)
+ -	3389 (RDP)
+ -	445 (SMB)
 
 - UDP (faster, connectionless)
--- 53 (DNS)
--- 67/68 (DHCP)
---	161 (SNMP)
---	514 (Syslog)
+ - 53 (DNS)
+ - 67/68 (DHCP)
+ -	161 (SNMP)
+ -	514 (Syslog)
 
 ### 2.2 Compare and contrast common networking hardware
 
@@ -130,8 +130,70 @@
 -	Restart devices
 -	Verify IP configuration
 
-
 <!-- Domain 3 -->
+## Domain 3.0 – Hardware (25%)
+
+### 3.1 Explain basic cable types and their connectors, features, and purposes
+
+**Common Cable Types**
+
+-	**Twisted Pair (Ethernet)**
+ - Cat5e, Cat6, Cat6a
+ - RJ-45 connectors
+
+-	**Fiber Optic**
+ - Single-mode (long distance)
+ - Multi-mode (short distance)
+
+-	**Coaxial**
+ - Older cable internet, BNC or F-connectors
+
+-	**USB**
+ - Type A, Type C, microUSB
+
+-	**Thunderbolt** — High-speed data + video
+
+### 3.2 Summarize common networking hardware
+
+**Key Devices**
+-	**Router** — Connects networks, NAT, firewall
+-	**Switch** — Connects devices in a LAN
+-	**Access Point** — Wireless coverage
+-	**Modem** — ISP connection
+-	**Firewall** — Security appliance
+
+### 3.3 Given a scenario, install and configure basic wired/wireless SOHO networks
+
+**SOHO Setup Steps**
+
+-	Connect modem to router
+-	Configure Wi-Fi SSID and WPA3
+-	Set strong admin password
+-	Enable guest network (optional)
+
+**Troubleshooting**
+-	Check physical connections
+- Verify IP configuration
+- Restart devices
+-	Check for interference
+
+### 3.4 Compare and contrast wireless networking protocols
+
+**Wi-Fi Standards**
+-	802.11ac (Wi-Fi 5)
+-	802.11ax (Wi-Fi 6)
+-	Frequency bands: 2.4 GHz (range) vs 5 GHz (speed)
+
+**Bluetooth**
+-	Short-range peripherals
+
+**NFC**
+-	Contactless payments
+
+
+
+
+<!-- Domain 4 -->
 
 
 
