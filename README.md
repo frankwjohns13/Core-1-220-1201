@@ -6,13 +6,13 @@
 
 <div>
 
- **1.1 Given a scenario, install and configure laptop hardware and components Laptop Components**
+ ### 1.1 Given a scenario, install and configure laptop hardware and components Laptop Components
 
 </div>
 
 <div>
 
-  ### Laptop Components
+  #### Laptop Components
   
 </div>
 
