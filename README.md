@@ -63,17 +63,17 @@
 ### 2.1 Compare and contrast TCP and UDP ports, protocols, and their purposes
 
 **Common Ports & Protocols**
--	TCP (reliable, connection-oriented)
- -	80 (HTTP)
- -	443 (HTTPS)
- -	3389 (RDP)
- -	445 (SMB)
+- TCP (reliable, connection-oriented)
+  -	80 (HTTP)
+  -	443 (HTTPS)
+  -	3389 (RDP)
+  -	445 (SMB)
 
 - UDP (faster, connectionless)
- - 53 (DNS)
- - 67/68 (DHCP)
- -	161 (SNMP)
- -	514 (Syslog)
+  - 53 (DNS)
+  - 67/68 (DHCP)
+  -	161 (SNMP)
+  -	514 (Syslog)
 
 ### 2.2 Compare and contrast common networking hardware
 
@@ -138,18 +138,18 @@
 **Common Cable Types**
 
 -	**Twisted Pair (Ethernet)**
- - Cat5e, Cat6, Cat6a
- - RJ-45 connectors
+  - Cat5e, Cat6, Cat6a
+  - RJ-45 connectors
 
 -	**Fiber Optic**
- - Single-mode (long distance)
- - Multi-mode (short distance)
+  - Single-mode (long distance)
+  - Multi-mode (short distance)
 
 -	**Coaxial**
- - Older cable internet, BNC or F-connectors
+  - Older cable internet, BNC or F-connectors
 
 -	**USB**
- - Type A, Type C, microUSB
+  - Type A, Type C, microUSB
 
 -	**Thunderbolt** — High-speed data + video
 
