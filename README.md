@@ -237,12 +237,12 @@
 ### 5.1 Given a scenario, apply troubleshooting methodology
 
 **CompTIA Six-Step Troubleshooting Process**
-1.	Identify the Problem — Gather information from user, check symptoms
-2.	Establish a Theory of Probable Cause — Question the obvious, research
-3.	Test the Theory — Confirm or disprove, escalate if needed
-4.	Establish a Plan of Action — Implement solution
-5.	Verify Full System Functionality — Test and apply preventative measures
-6.	Document Findings — Record problem, actions, and outcome
+1.	**Identify the Problem** — Gather information from user, check symptoms
+2.	**Establish a Theory of Probable Cause** — Question the obvious, research
+3.	**Test the Theory** — Confirm or disprove, escalate if needed
+4.	**Establish a Plan of Action** — Implement solution
+5.	**Verify Full System Functionality** — Test and apply preventative measures
+6.	**Document Findings** — Record problem, actions, and outcome
 
 ### 5.2 Given a scenario, troubleshoot common hardware problems
 
@@ -295,8 +295,10 @@
 
 <!-- End of Notes -->
 
-Core 2 Notes 
-Main Page
+**View Core 2 Notes** [View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
+
+**View A+ Main Page** [View A+ Main Page](https://github.com/frankwjohns13/Core-2-2202-1202)
+
 
 
 
