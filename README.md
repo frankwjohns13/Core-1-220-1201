@@ -141,17 +141,19 @@
    - Cat5e, Cat6, Cat6a
    - RJ-45 connectors
 
--	**Fiber Optic**
+- **Fiber Optic**
    - Single-mode (long distance)
    - Multi-mode (short distance)
 
--	**Coaxial**
+- **Coaxial**
    - Older cable internet, BNC or F-connectors
 
--	**USB**
-   - Type A, Type C, microUSB
+- **USB**
+   - Type A
+   - Type C
+   - microUSB
 
--	**Thunderbolt** — High-speed data + video
+- **Thunderbolt** — High-speed data + video
 
 ### 3.2 Summarize common networking hardware
 
