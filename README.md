@@ -295,10 +295,9 @@
 
 <!-- End of Notes -->
 
-**View Core 2 Notes** [View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
+**View Core 2 Notes** → [View Core 2 Notes](https://github.com/frankwjohns13/Core-2-220-1202)
 
-**View A+ Main Page** [View A+ Main Page](https://github.com/frankwjohns13/Core-2-2202-1202)
-
+**View A+ Main Page** → [View A+ Main Page](https://github.com/frankwjohns13/CompTIA-A-Plus-Notes)
 
 
 
