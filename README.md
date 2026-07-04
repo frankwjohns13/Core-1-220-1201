@@ -34,5 +34,29 @@
 -	**Wearables** — Smartwatches, fitness trackers
 -	**IoT Devices** — Smart home devices
 
+**Connection Types**
+
+-	USB-C (most common now)
+-	Lightning (Apple)
+-	Wireless (Wi-Fi, Bluetooth, NFC)
+
+### 1.3 Given a scenario, set up and configure accessories and ports of mobile devices
+
+**Common Ports**
+
+-	USB-C (charging, data, video)
+-	HDMI (video out)
+-	microSD card slots
+-	Headphone jacks (less common now)
+
+**Accessories**
+
+-	Docking stations
+-	External monitors
+-	Bluetooth peripherals
+-	Stylus pens (iPad, Surface)
+
+
+
 
 
