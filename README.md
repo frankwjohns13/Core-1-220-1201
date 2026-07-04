@@ -105,7 +105,7 @@
 
 -	Very short range for payments and data transfer
 
-###2.4 Summarize the purposes of services provided by networked hosts
+### 2.4 Summarize the purposes of services provided by networked hosts
 
 **Common Services**
 
@@ -115,7 +115,7 @@
 -	**SMB** — File sharing
 -	**RDP** — Remote desktop
 
-###2.5 Given a scenario, install and configure basic wired/wireless small office/home office (SOHO) networks
+### 2.5 Given a scenario, install and configure basic wired/wireless small office/home office (SOHO) networks
 
 **SOHO Setup**
 
