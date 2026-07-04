@@ -16,3 +16,4 @@
 - **Keyboard & Touchpad** — Often connected via ribbon cables
 - **Battery** — Lithium-ion, removable or internal
 - **Cooling System** — Fans and heat sinks (dust buildup is common)
+
