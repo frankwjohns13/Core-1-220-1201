@@ -137,19 +137,19 @@
 
 **Common Cable Types**
 
--	**Twisted Pair (Ethernet)**
-  - Cat5e, Cat6, Cat6a
-  - RJ-45 connectors
+- **Twisted Pair (Ethernet)**
+   - Cat5e, Cat6, Cat6a
+   - RJ-45 connectors
 
 -	**Fiber Optic**
-  - Single-mode (long distance)
-  - Multi-mode (short distance)
+   - Single-mode (long distance)
+   - Multi-mode (short distance)
 
 -	**Coaxial**
-  - Older cable internet, BNC or F-connectors
+   - Older cable internet, BNC or F-connectors
 
 -	**USB**
-  - Type A, Type C, microUSB
+   - Type A, Type C, microUSB
 
 -	**Thunderbolt** — High-speed data + video
 
