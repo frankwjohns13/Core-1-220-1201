@@ -193,9 +193,112 @@
 -	Contactless payments
 
 
-
-
 <!-- Domain 4 -->
+## Domain 4.0 – Virtualization and Cloud Computing (11%)
+
+### 4.1 Summarize cloud computing concepts
+
+**Cloud Deployment Models**
+- **Public Cloud** — Services provided by third-party (AWS, Azure, Google Cloud)
+- **Private Cloud** — Dedicated infrastructure for one organization
+- **Hybrid Cloud** — Combination of public and private
+- **Community Cloud** — Shared among organizations with common needs
+
+**Cloud Service Models**
+- **IaaS** (Infrastructure as a Service) — Virtual machines, storage, networking
+- **PaaS** (Platform as a Service) — Development platforms
+- **SaaS** (Software as a Service) — Applications like Office 365, Gmail
+
+### 4.2 Given a scenario, set up and configure client-side virtualization
+
+**Virtualization Basics**
+- **Hypervisor** — Software that creates and manages virtual machines
+  - Type 1 (bare-metal): VMware ESXi, Microsoft Hyper-V
+  - Type 2 (hosted): VMware Workstation, VirtualBox
+
+**Common Use Cases**
+- Testing different operating systems
+- Running legacy applications
+- Lab environments for learning
+
+**Client-Side Virtualization Tools**
+- VirtualBox (free)
+- VMware Workstation Player
+- Hyper-V (Windows Pro/Enterprise)
+
+**Key Concepts**
+- Resource allocation (CPU, RAM, storage)
+- Snapshots for backups
+- Guest additions/tools for better performance
+
+<!-- Domain 5 --> 
+## Domain 5.0 – Hardware and Network Troubleshooting (28%)
+
+### 5.1 Given a scenario, apply troubleshooting methodology
+
+**CompTIA Six-Step Troubleshooting Process**
+1.	Identify the Problem — Gather information from user, check symptoms
+2.	Establish a Theory of Probable Cause — Question the obvious, research
+3.	Test the Theory — Confirm or disprove, escalate if needed
+4.	Establish a Plan of Action — Implement solution
+5.	Verify Full System Functionality — Test and apply preventative measures
+6.	Document Findings — Record problem, actions, and outcome
+
+### 5.2 Given a scenario, troubleshoot common hardware problems
+
+**Common Hardware Issues**
+- No power / won’t boot
+- Overheating
+- Blue Screen of Death (BSOD)
+- No display / distorted image
+- Strange noises (grinding, clicking)
+- Device Manager errors (yellow exclamation marks)
+
+**Troubleshooting Tools**
+- Multimeter, POST card, loopback plugs
+- System Information, Event Viewer
+- Safe Mode, Startup Repair
+
+### 5.3 Given a scenario, troubleshoot common networking problems
+
+**Common Network Issues**
+- No connectivity
+- Intermittent connectivity
+- Slow speeds
+- IP address conflicts
+- DNS resolution failures
+- Limited or no connectivity
+
+**Troubleshooting Steps**
+- Check physical connections
+- Verify IP configuration (ipconfig)
+- Ping gateway and external sites
+- Check DNS settings
+- Restart router/modem
+
+### 5.4 Given a scenario, troubleshoot and resolve printer problems
+
+**Common Printer Issues**
+- Paper jams
+- Print quality problems (faded, streaks, ghosting)
+- Printer offline
+- Print queue stuck
+- Driver issues
+
+**Troubleshooting Steps**
+- Check power and connections
+- Clear print queue
+- Restart Print Spooler service
+- Update/reinstall drivers
+- Run printer troubleshooter
+
+
+
+
+
+
+
+
 
 
 
