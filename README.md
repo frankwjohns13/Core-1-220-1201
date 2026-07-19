@@ -296,11 +296,14 @@
 <!-- End of Notes -->
 
 <!-- Link to Core 2 notes -->
-**View Core 2 Notes** → [View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
+## View Core 2 Notes
+[View Core 2 Notes](https://github.com/frankwjohns13/Core-2-2202-1202)
 
-<!-- Notes Index -->
-**View Index** → [Notes Index](https://github.com/frankwjohns13/frankwjohns13.github.io)
+## Notes Index
+[View Notes Index](https://github.com/frankwjohns13/frankwjohns13.github.io)
 
+## Website
+[View website](https://frankwjohns13.github.io/)
 <!-- End of Page --> 
 
 
